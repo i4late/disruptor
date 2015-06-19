@@ -1,0 +1,1 @@
+# LMAX Disruptor has [moved to Github](http://lmax-exchange.github.com/disruptor/) #
